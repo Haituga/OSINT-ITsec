@@ -26,6 +26,8 @@
 
 ## Blue
 
+- [MITRE CVE](https://www.cve.org/CVERecord)
+- [MITRE CWE](https://cwe.mitre.org/index.html)
 - [MITRE D3FEND](https://d3fend.mitre.org/)
 - [abuse.ch](https://abuse.ch/#platforms)
 - [VirusTotal YARA](https://virustotal.github.io/yara/)
