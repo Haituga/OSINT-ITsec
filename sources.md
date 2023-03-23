@@ -19,14 +19,22 @@
 
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [Kali Tools](https://kali.org/tools/)
-- [nmap](https://nmap.org)
+- [nmap](https://nmap.org) -> [nmapAutomator](https://github.com/21y4d/nmapAutomator)
 - [Rapid7 Metasploit](https://github.com/rapid7/metasploit-framework)
+- [Hackers Grimoire](https://vulp3cula.gitbook.io/hackers-grimoire/)
+- [Pentest-Everything](https://viperone.gitbook.io/pentest-everything/)
 
 ## Blue
 
 - [MITRE D3FEND](https://d3fend.mitre.org/)
 - [abuse.ch](https://abuse.ch/#platforms)
 - [VirusTotal YARA](https://virustotal.github.io/yara/)
+
+## Recon
+
+- [dns-infos](https://viewdns.info/)
+- [dns-dumpster](https://dnsdumpster.com/)
+- [shodan](https://www.shodan.io/)
 
 ### Vulnerability Scanning
 
@@ -39,6 +47,10 @@
 - [John The Ripper](https://github.com/openwall/john)
 - [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz)
+
+## Reversing
+
+- [Browser decompiler](https://godbolt.org/)
 
 # News, Blogs & Writeups
 
@@ -55,11 +67,18 @@
 ~~biased much?~~
 - [Graham Cluley](https://grahamcluley.com/)
 - [Krebs on Security](https://krebsonsecurity.com/)
+- [Schneier on Security](https://www.schneier.com/)
+- [Bad Sector Labs](https://blog.badsectorlabs.com/index.html)
+- [Hackaday](https://hackaday.com/)
+
+## Videos
+
+- [Windows Internals](https://www.youtube.com/playlist?list=PLjF-jU0hEwEezV_pflbN547u0Li0AAPqt)
 
 ## Writeups
 
-- TBX
-- TBX
+- [Top CVEs 2022](https://www.hackthebox.com/blog/most-popular-cybersecurity-vulnerabilities-and-exploits-from-2022)
+- [LuemmellSEC](https://luemmelsec.github.io/)
 - TBX
 
 ---
@@ -70,12 +89,13 @@
 # Pentest
 
 ## Web Hacking
+- [Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)
 - [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [CeWL](https://github.com/digininja/CeWL)
 - [Burp Suite](https://portswigger.net/burp)$
+- [Mystery Challenges](https://portswigger.net/web-security/mystery-lab-challenge)
 
 ### Passwordlists
-
 - [Openwall](https://www.openwall.com/)$
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [SamLists](https://github.com/the-xentropy/samlists)
