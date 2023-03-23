@@ -76,7 +76,6 @@
 ### Passwordlists
 
 - [Openwall](https://www.openwall.com/)$
-> Please note that this is a paid service
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [SamLists](https://github.com/the-xentropy/samlists)
 
