@@ -71,6 +71,7 @@
 
 ## Web Hacking
 - [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [CeWL](https://github.com/digininja/CeWL)
 - [Burp Suite](https://portswigger.net/burp)$
 
 ### Passwordlists
