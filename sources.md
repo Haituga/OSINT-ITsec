@@ -15,8 +15,13 @@
 
 # Technical tinkering
 
-
+---
 
 # Pentest
 
+### Passwords
 
+- [Openwall](https://www.openwall.com/)
+> Please note that this is a paid service
+- [John The Ripper](https://github.com/openwall/john)
+- [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)
