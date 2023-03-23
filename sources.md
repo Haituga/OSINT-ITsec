@@ -52,7 +52,7 @@
 
 - [Browser decompiler](https://godbolt.org/)
 
-# News, Blogs & Writeups
+# Media
 
 ## News
 
@@ -74,6 +74,7 @@
 ## Videos
 
 - [Windows Internals](https://www.youtube.com/playlist?list=PLjF-jU0hEwEezV_pflbN547u0Li0AAPqt)
+- [The Wonderful John Hammond](https://www.youtube.com/@_JohnHammond)
 
 ## Writeups
 
