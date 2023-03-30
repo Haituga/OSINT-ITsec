@@ -3,14 +3,21 @@
 - [Rapid7 AttackerKB](https://attackerkb.com)
 - [CVE Trends](https://cvetrends.com/)
 
+## General Knowledge
+- [CISA - Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
 ## Vendor/OS-specific Security Advisories
+- [CISA - Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [Microsoft MSRC](https://msrc.microsoft.com/update-guide)
 - [Ubuntu Security Notices](https://ubuntu.com/security/notices)
 - [RedHat Security Advisories](https://access.redhat.com/security/security-updates/)
 - [Apple Security](https://support.apple.com/en-us/HT201222)
 - [MacRumors - Apple Security Articles](https://www.macrumors.com/guide/apple-security/)
+- [AMD Product Security](https://www.amd.com/en/resources/product-security.html)
+- [Intel Security Center](https://www.intel.com/content/www/us/en/security-center/default.html)
 
-## Program-specific Security Advisories
+### Program-specific Security Advisories
 - [VMware Security Advisory](https://www.vmware.com/security/advisories.html)
 
 # Tools
