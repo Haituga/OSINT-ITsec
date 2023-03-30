@@ -71,6 +71,7 @@
 - [Techcrunch Security](https://techcrunch.com/category/security/)
 - [Engadget Security](https://www.engadget.com/tag/security/)
 - [Wired Security](https://www.wired.com/category/security/)
+- [Sophos News](https://news.sophos.com/)
 
 ## Blogs
 ~~biased much?~~
@@ -79,6 +80,8 @@
 - [Schneier on Security](https://www.schneier.com/)
 - [Bad Sector Labs](https://blog.badsectorlabs.com/index.html)
 - [Hackaday](https://hackaday.com/)
+- [SentinelOne](https://www.sentinelone.com/blog)
+- [nakedsecurity by Sophos](https://nakedsecurity.sophos.com/)
 
 ## Videos
 
